@@ -65,3 +65,9 @@ obtained a master's degree in information technology from the Indian Institute o
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.
+
+### notice:
+In order to run makefile, plesae make sure copy samples of third_party to your cuda installation localtion. Normally, you need to do:
+```
+cp -r third_party/samples/ /usr/local/cuda
+```
